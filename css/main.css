@@ -79,7 +79,7 @@ body {
     font-weight: 500;
     font-size: 15px;
     line-height: 18.75px;
-    background-color: var(--primary-color);
+    color: var(--white-text-color);
     text-decoration: none;
     text-transform: uppercase;
 }
